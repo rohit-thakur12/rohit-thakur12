@@ -1,4 +1,6 @@
-## I am Rohit. I am a Data Scientist. 
+## Hi There! 
+
+### I am Rohit. I am a Data Scientist. 
 
 * I am still learning but my goal is to be more active here and contribute to projects. 
 * I mostly work on projects dealing with natural language processing. 
